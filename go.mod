@@ -1,3 +1,5 @@
-module github.com/ehsan_panahy_proglog
+module github.com/ehsanpanahy/proglog
 
 go 1.18
+
+require github.com/gorilla/mux v1.8.1 // indirect
